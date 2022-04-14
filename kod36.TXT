@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+ <HEAD>
+ <TITLE>Style wewnętrzne</TITLE>
+ <META http-equiv="Content-Type" content="text/html; charset=iso-8859-2">
+ <style type="text/css">
+ body{
+ background-color: rgb(219,112,147);
+ text-align : center;
+ margin : 50px;
+}
+
+
+DIV {
+ background : rgb(100,128,255);
+ width : 400px;
+ border : 3px black solid;
+ }
+H1 {
+ margin : 20px;
+ border : 1px solid black;
+ background : rgb(255,255,0);
+ }
+
+ H2 {
+ margin : 20px;
+ border : 3px solid black;
+ background : salmon;
+ }
+
+ H3 {
+ margin : 20px;
+ border : 6px solid black;
+ background : rgb(100,149,237);
+ }
+
+ 
+ 
+ </style>
+ </HEAD>
+<BODY>
+<DIV><H1>Markowski 1P</H1></DIV> <br>
+<hr width="400px" color="(100,149,237)" align="left" >
+<DIV><H2>Markowski 1P</H2></DIV> <br>
+<hr width="400px" color="(100,149,237)" align="left">
+<DIV><H3>Markowski 1P</H3></DIV> <br>
+</BODY>
+</HTML>
+
+<!--Szymon Markowski-->
